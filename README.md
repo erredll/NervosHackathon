@@ -4,7 +4,17 @@
 <img src="images/00/node.png" width="200" alt="Node">
 <img src="images/00/indexer.png" width="200" alt="indexer">
 
+
 1) Create A Godwoken Account On The EVM Layer 2 Testnet
+New Account created
+<img src="images/01/01_account_new_list.png" width="200" alt="New Account created">
+
+Deposit on Layer2
+<img src="images/01/02_layer2_deposit.png" width="200" alt="Deposit on Layer2">
+
+Link to Layer 1 address funded
+[Testnet](https://explorer.nervos.org/aggron/address/ckt1qyqzgvw7gxm4zlnlvnxhaxnf9rc57msm330sy2df5j)
+
 
 2) Deploy A Simple Ethereum Smart Contract On Polyjuice
 
