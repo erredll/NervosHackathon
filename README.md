@@ -1,8 +1,9 @@
 # NervosHackathon
 
 0) Setup A Local CKB Node And CKB Indexer For The Testnet
-<img src="images/00/node.png" width="200" alt="Node">
-<img src="images/00/indexer.png" width="200" alt="indexer">
+|Node|<img src="images/00/node.png" width="200" alt="node">|
+|Indexer|<img src="images/00/indexer.png" width="200" alt="indexer">|
+
 
 1) Create A Godwoken Account On The EVM Layer 2 Testnet
 <img src="images/01/01_account_new_list.png" width="200" alt="New Account created">
