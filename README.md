@@ -1,6 +1,9 @@
 # NervosHackathon
 
 0) Setup A Local CKB Node And CKB Indexer For The Testnet
+
+| Task      | Deliverable |
+| ----------- | ----------- |
 |Node|<img src="images/00/node.png" width="200" alt="node">|
 |Indexer|<img src="images/00/indexer.png" width="200" alt="indexer">|
 
