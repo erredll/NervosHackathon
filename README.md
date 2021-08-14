@@ -31,41 +31,7 @@
 | ----------- | ----------- |
 |TX hash|0xed0eb0ce1169aa08d43309c51fb8a826ee0f762d4e24b1e78b0d1b16f5ee3ee9|
 |Contract address|0xf8938fEB315e1ABE37Ae7B0c27B1b336CB763351|
-|ABI| ```json
-[
-  {
-    "inputs": [],
-    "stateMutability": "payable",
-    "type": "constructor"
-  },
-  {
-    "inputs": [
-      {
-        "internalType": "uint256",
-        "name": "x",
-        "type": "uint256"
-      }
-    ],
-    "name": "set",
-    "outputs": [],
-    "stateMutability": "payable",
-    "type": "function"
-  },
-  {
-    "inputs": [],
-    "name": "get",
-    "outputs": [
-      {
-        "internalType": "uint256",
-        "name": "",
-        "type": "uint256"
-      }
-    ],
-    "stateMutability": "view",
-    "type": "function"
-  }
-]
-```|
+|ABI| [ABI](images/03/ABI.txt) |
 
 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
 
