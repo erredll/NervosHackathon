@@ -31,7 +31,8 @@
 | ----------- | ----------- |
 |TX hash|0xed0eb0ce1169aa08d43309c51fb8a826ee0f762d4e24b1e78b0d1b16f5ee3ee9|
 |Contract address|0xf8938fEB315e1ABE37Ae7B0c27B1b336CB763351|
-|ABI|<pre>[
+|ABI| ```json
+[
   {
     "inputs": [],
     "stateMutability": "payable",
@@ -63,7 +64,8 @@
     "stateMutability": "view",
     "type": "function"
   }
-]</pre>|
+]
+```|
 
 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
 
