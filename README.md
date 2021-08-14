@@ -35,6 +35,14 @@
 
 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
 
+| Task      | Deliverable |
+| ----------- | ----------- |
+|Layer 1 Address|[LINK](https://explorer.nervos.org/aggron/transaction/0xc079c289fe6923c83eee9a8ffc6fe100d3d4b9f4366d023e6f36af4f4b2baaa3)|
+|SUDT tokens on Layer 1|<img src="images/04/01_SUDT_Tokens.png" width="200" alt="SUDT tokens on Layer 1">|
+|TX ID|[LINK](https://explorer.nervos.org/aggron/transaction/0xc079c289fe6923c83eee9a8ffc6fe100d3d4b9f4366d023e6f36af4f4b2baaa3)|
+|Deposit to Layer 2|<img src="images/04/02_Deposit_L2.png" width="200" alt="Deposit to Layer 2">|
+|SUDT ID|2302|
+
 5) Deploy The ERC20 Proxy Contract For The Deposited SUDT
 
 6) Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
