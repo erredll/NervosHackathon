@@ -1,10 +1,17 @@
 # NervosHackathon
 
 0) Setup A Local CKB Node And CKB Indexer For The Testnet
-<img src="images/00/node.png" width="200" alt="Node">
-<img src="images/00/indexer.png" width="200" alt="indexer">
+
+| Task      | Deliverable |
+| ----------- | ----------- |
+|Node|<img src="images/00/node.png" width="200" alt="node">|
+|Indexer|<img src="images/00/indexer.png" width="200" alt="indexer">|
+
 
 1) Create A Godwoken Account On The EVM Layer 2 Testnet
+<img src="images/01/01_account_new_list.png" width="200" alt="New Account created">
+<img src="images/01/02_layer2_deposit.png" width="200" alt="Deposit on Layer2">
+[Link to Layer 1 address funded](https://explorer.nervos.org/aggron/address/ckt1qyqzgvw7gxm4zlnlvnxhaxnf9rc57msm330sy2df5j)
 
 2) Deploy A Simple Ethereum Smart Contract On Polyjuice
 
