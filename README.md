@@ -45,6 +45,14 @@
 
 5) Deploy The ERC20 Proxy Contract For The Deposited SUDT
 
+| Task      | Deliverable |
+| ----------- | ----------- |
+|Deploy smart contract|<img src="images/05/01_deployed_smart_contract.png" width="200" alt="Deploy smart contract">|
+|Address of the ERC20 Proxy Contract|0xDF27b0D03b244705E95F3779b35E0FF7BDe9E5D5|
+|SUDT balance check|<img src="images/05/02_check_sudt_balance.png" width="200" alt="SUDT balance check">|
+|Ethereum address checked|0x3B0DA190b2f025B9E4ecb41119c3E205dB6Ba6cd|
+
+
 6) Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
 
 7) Port An Existing Ethereum DApp To Polyjuice
