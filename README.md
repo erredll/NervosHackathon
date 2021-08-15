@@ -55,6 +55,15 @@
 
 6) Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
 
+| Task      | Deliverable |
+| ----------- | ----------- |
+|Generated Deposit Receiver Address|<img src="images/06/01_deposit_receiver_address.png" width="200" alt="Generated Deposit Receiver Address">|
+|Deposit Receiver Address|ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqru60s5ze4kelvqhlqmcrfwmws2qkv9d3qkflxvev6gfe3fmd657g6gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k5wcd5xgt9up9h8jwedq3r8p7ypwmdwnv6q9rqgqqqqqqcql9dmaj|
+|Ethereum address used to generate the Deposit Receiver Address|0x3B0DA190b2f025B9E4ecb41119c3E205dB6Ba6cd|
+|Etherscan explorer link|[LINK](https://rinkeby.etherscan.io/tx/0xba57166b0bf29e557440676bc2d1f398ede56baf6084748e68fdbe68bcac8401)|
+|Nervos explorer link|[LINK](https://explorer.nervos.org/aggron/transaction/0xcb0114633d8ec9726e391381a7d535aa4bac047a40830a6147c73ae60800428e)|
+
+
 7) Port An Existing Ethereum DApp To Polyjuice
 
 8) Modify The Ported DApp So It Supports Ethereum Assets Via Force Bridge
